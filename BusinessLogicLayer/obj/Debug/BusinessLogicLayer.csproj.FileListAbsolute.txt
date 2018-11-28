@@ -1,0 +1,6 @@
+C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

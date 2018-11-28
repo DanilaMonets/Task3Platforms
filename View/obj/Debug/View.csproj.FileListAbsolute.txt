@@ -1,0 +1,15 @@
+C:\Users\solol\source\repos\Sushi\View\bin\Debug\View.exe.config
+C:\Users\solol\source\repos\Sushi\View\bin\Debug\View.exe
+C:\Users\solol\source\repos\Sushi\View\bin\Debug\View.pdb
+C:\Users\solol\source\repos\Sushi\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\solol\source\repos\Sushi\View\obj\Debug\MainWindow.g.cs
+C:\Users\solol\source\repos\Sushi\View\obj\Debug\App.g.cs
+C:\Users\solol\source\repos\Sushi\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\solol\source\repos\Sushi\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\solol\source\repos\Sushi\View\obj\Debug\MainWindow.baml
+C:\Users\solol\source\repos\Sushi\View\obj\Debug\View.g.resources
+C:\Users\solol\source\repos\Sushi\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\solol\source\repos\Sushi\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\solol\source\repos\Sushi\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\solol\source\repos\Sushi\View\obj\Debug\View.exe
+C:\Users\solol\source\repos\Sushi\View\obj\Debug\View.pdb
