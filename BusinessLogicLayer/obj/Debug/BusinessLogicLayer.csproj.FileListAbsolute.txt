@@ -4,3 +4,6 @@ C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\obj\Debug\BusinessLogicLaye
 C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
 C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete

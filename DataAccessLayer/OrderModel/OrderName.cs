@@ -11,7 +11,7 @@ namespace DataAccessLayer.OrderModel
         public static int counter;
         static OrderName()
         {
-            counter = 0;
+            counter = 1;
         }
         public static string GetName()
         {
