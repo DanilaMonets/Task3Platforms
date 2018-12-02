@@ -9,7 +9,7 @@ namespace DataAccessLayer.SushiModels
     /// <summary>
     /// Class Rolls inherited from Sushi
     /// </summary>
-    class Rolls : Sushi
+    public class Rolls : Sushi
     {
         public Rolls()
         {

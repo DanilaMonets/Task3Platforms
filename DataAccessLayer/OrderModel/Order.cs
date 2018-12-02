@@ -25,20 +25,38 @@ namespace DataAccessLayer.OrderModel
             IsReady = false;
             Time = DateTime.Now;
         }
-        public Order(List<Sushi> Sushis)
+        public Order(List<Sushi> sushis)
         {
             Name = OrderName.GetName();
-            foreach (var item in Sushis)
+            Sushis = new List<Sushi>();
+            foreach (var item in sushis)
             {
-                this.Sushis.Add(item);
+                Sushis.Add(item);
             }
-            IsTaken = false;
+            IsTaken = true;
             IsReady = false;
             Time = DateTime.Now;
         }
         public void TakeOrder()
         {
             IsTaken = true;
+        }
+        public void MarkReady()
+        {
+            IsReady = true;
+        }
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine(this.Name);
+            foreach (var item in Sushis)
+            {
+                sb.AppendLine(item.Name + " " + item.Sauce);
+            }
+            sb.AppendLine(IsTaken.ToString());
+            sb.AppendLine(IsReady.ToString());
+            sb.AppendLine(Time.ToString("HH:mm"));
+            return sb.ToString();
         }
     }
 }
