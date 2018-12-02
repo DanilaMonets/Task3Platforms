@@ -20,7 +20,7 @@ namespace ConsoleApp
 
             foreach (var v in list.orders)
             {
-                Console.WriteLine("lol");
+                Console.WriteLine("kek");
             }
 
             Console.ReadKey();
