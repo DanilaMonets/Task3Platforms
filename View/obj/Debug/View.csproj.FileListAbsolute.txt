@@ -13,3 +13,10 @@ C:\Users\solol\source\repos\Sushi\View\obj\Debug\View.csproj.GenerateResource.ca
 C:\Users\solol\source\repos\Sushi\View\obj\Debug\View.csproj.CoreCompileInputs.cache
 C:\Users\solol\source\repos\Sushi\View\obj\Debug\View.exe
 C:\Users\solol\source\repos\Sushi\View\obj\Debug\View.pdb
+C:\Users\solol\source\repos\Sushi\View\bin\Debug\BusinessLogicLayer.dll
+C:\Users\solol\source\repos\Sushi\View\bin\Debug\DataAccessLayer.dll
+C:\Users\solol\source\repos\Sushi\View\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\solol\source\repos\Sushi\View\bin\Debug\DataAccessLayer.pdb
+C:\Users\solol\source\repos\Sushi\View\obj\Debug\Logen.g.cs
+C:\Users\solol\source\repos\Sushi\View\obj\Debug\Logen.baml
+C:\Users\solol\source\repos\Sushi\View\obj\Debug\View.csproj.CopyComplete

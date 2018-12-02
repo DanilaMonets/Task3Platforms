@@ -1,0 +1,16 @@
+﻿<Window x:Class="View.Logen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:View"
+        mc:Ignorable="d"
+        Title="Logen" Height="189.583" Width="905.209">
+    <StackPanel Margin="15 5">
+        <Label Content = "Login" FontSize="20" HorizontalAlignment="Center"/>
+        <Separator></Separator>
+        <Label Content = "Username" FontSize = "15"/>
+        <TextBox Name = "txtUsername"/>
+        <Button Name = "btnSubmit" Content = "Submit" Margin = "70 15" Click="btnSubmit_Click"/>
+    </StackPanel>
+</Window>

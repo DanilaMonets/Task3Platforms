@@ -12,6 +12,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using BusinessLogicLayer;
+using DataAccessLayer.OrderModel;
+using DataAccessLayer.SushiModels;
 
 namespace View
 {
@@ -20,7 +23,7 @@ namespace View
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
+        public MainWindow(OrdersList orders)
         {
             InitializeComponent();
         }
