@@ -17,6 +17,7 @@ namespace DataAccessLayer.OrderModel
         public bool IsTaken { get; set; }
         public bool IsReady { get; set; }
         public DateTime Time { get; set; }
+
         public Order()
         {
             Name = OrderName.GetName();
@@ -33,9 +34,13 @@ namespace DataAccessLayer.OrderModel
             {
                 Sushis.Add(item);
             }
-            IsTaken = true;
+            IsTaken = false;
             IsReady = false;
             Time = DateTime.Now;
+        }
+        public void AddSushi(Sushi s)
+        {
+            Sushis.Add(s);
         }
         public void TakeOrder()
         {
@@ -51,8 +56,9 @@ namespace DataAccessLayer.OrderModel
             sb.AppendLine(this.Name);
             foreach (var item in Sushis)
             {
-                sb.AppendLine(item.Name + " " + item.Sauce);
+                sb.Append(item.Name + ",");
             }
+            sb.AppendLine();
             sb.AppendLine(IsTaken.ToString());
             sb.AppendLine(IsReady.ToString());
             sb.AppendLine(Time.ToString("HH:mm"));
