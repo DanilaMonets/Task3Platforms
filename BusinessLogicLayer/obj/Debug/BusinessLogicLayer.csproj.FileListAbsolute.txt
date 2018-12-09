@@ -7,3 +7,12 @@ C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\obj\Debug\BusinessLogicLaye
 C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
 C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
 C:\Users\solol\source\repos\Sushi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\lysys\Desktop\Task3Platforms\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\lysys\Desktop\Task3Platforms\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\lysys\Desktop\Task3Platforms\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lysys\Desktop\Task3Platforms\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lysys\Desktop\Task3Platforms\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\lysys\Desktop\Task3Platforms\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\lysys\Desktop\Task3Platforms\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\lysys\Desktop\Task3Platforms\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\lysys\Desktop\Task3Platforms\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

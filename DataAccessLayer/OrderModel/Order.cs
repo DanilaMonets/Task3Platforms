@@ -18,6 +18,19 @@ namespace DataAccessLayer.OrderModel
         public bool IsReady { get; set; }
         public DateTime Time { get; set; }
 
+        public string Shushis
+        {
+            get
+            {
+                StringBuilder str = new StringBuilder();
+                foreach(var elem in this.Sushis)
+                {
+                    str.Append($"{elem.Name}, ");
+                }
+                return str.ToString();
+            }
+        }
+
         public Order()
         {
             Name = OrderName.GetName();

@@ -4,3 +4,9 @@ C:\Users\solol\source\repos\Sushi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
 C:\Users\solol\source\repos\Sushi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
 C:\Users\solol\source\repos\Sushi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\solol\source\repos\Sushi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\lysys\Desktop\Task3Platforms\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lysys\Desktop\Task3Platforms\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lysys\Desktop\Task3Platforms\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\lysys\Desktop\Task3Platforms\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lysys\Desktop\Task3Platforms\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\lysys\Desktop\Task3Platforms\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
